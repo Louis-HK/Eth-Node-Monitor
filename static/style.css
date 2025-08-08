@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #f0f0f0;
+    text-align: center;
+}
+.container {
+    margin-top: 50px;
+}
+.status {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+p {
+    font-size: 18px;
+}
